@@ -104,6 +104,7 @@ Rails.application.routes.draw do
 end
 ```
 which would give us:
+
 |method|route|result|
 |------|-----|------|
 |GET|/artists|get all artists|
@@ -128,6 +129,7 @@ Rails.application.routes.draw do
 end
 ```
 which would give us:
+
 |method|route|result|
 |------|-----|-----|
 |GET|/artists|get all artists|
@@ -151,6 +153,7 @@ Rails.application.routes.draw do
 end
 ```
 which would give us:
+
 |method|route|result|
 |------|-----|-----|
 |GET|/artists|get all artists|
@@ -177,6 +180,7 @@ Rails.application.routes.draw do
 end
 ```
 which would give us:
+
 |method|route|result|
 |------|-----|-----|
 |GET|/artists|get all artists|
